@@ -1,0 +1,68 @@
+---
+title: "Christian Sommer"
+image: "chris_800x800.jpg"
+links:
+  - label: Email
+    url: "mailto:christian.sommer@uni-tuebingen.de"
+  - label: Publications
+    url: "https://zotero.org/sommergeo"
+  - label: Github
+    url: "https://github.com/sommergeo/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/sommergeo.bsky.social"
+
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I’m a Physical Geographer who studies the prehistory of landscapes and its implications for early humans with quantitative spatial analyses. My methodological focus lies on GIS, Remote Sensing, Data Mining and Geomorphological field techniques. My temporal and regional foci are the Pleistocene in Africa and Eurasia, and especially the Late Pleistocene of Eastern South Africa. I work at the research center “The Role of Culture in Early Expansions of Humans” (ROCEEH) funded by the Heidelberg Academy of Sciences and Humanities. I teach at the Institute of Geography, Department of Geosciences of the University of Tübingen.
+
+
+## Education
+
+**Dr. rer. nat.** in Geography | Uni Tübingen, 2021
+
+**M.Sc.** in Physical Geography (GIS & Remote Sensing) | Uni Tübingen, 2016
+
+**B.Sc.** in Physical Geography | Uni Eichstätt-Ingolstadt, 2012
+
+
+## Online Ressources
+
+- Homepage at the [Heidelberg Academy of Sciences and Humanities]https://en.hadw-bw.de/akademie/beschaeftigte/14)
+- Homepage at the [University of Tübingen](https://uni-tuebingen.de/de/92950)
+- ORCID: [0000-0001-9062-0876](https://orcid.org/0000-0001-9062-0876)
+- Zotero: [List of publications](https://zotero.org/sommergeo)
+- Google Scholar: [List of publications](https://scholar.google.com/citations?user=f2oBVT8AAAAJ)
+- ResearchGate: [List of publications](https://www.researchgate.net/profile/Christian_Sommer5)
+- Github: [Repositories and code](https://github.com/sommergeo/)
+- Figshare: [Presentations, figures and maps](https://figshare.com/authors/Christian_Sommer/9470378)
+- Sketchfab: [3D Models](https://sketchfab.com/sommergeo)
+- Bluesky: [sommergeo.bsky.social](https://bsky.app/profile/sommergeo.bsky.social)
+- Mastodon: <a rel="me" href="https://fosstodon.org/@sommer">@sommer@fosstodon.org</a>
+
+## Contact
+
+**christian.sommer@uni-tuebingen.de**
+
+**The Role of Culture in Early Expansions of Humans (ROCEEH)**  
+Heidelberg Academy of Sciences and Humanities  
+Hölderlinstr. 12  
+72074 Tübingen  
+Germany 
+
+Room S237  
+Phone [+49-7071-29-72131](tel:+4970712972131)
+
+**Institute of Geography**  
+Tübingen University  
+Department of Geosciences  
+Physical Geography and Geoinformation Systems  
+Rümelinstr. 19–23  
+72070 Tübingen  
+Germany  
+
+Room W401  
+Phone [+49-7071-29-77505](tel:+4970712977505)
